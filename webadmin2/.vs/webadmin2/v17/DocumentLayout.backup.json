@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phap\\source\\repos\\webadmin2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|c:\\users\\phap\\source\\repos\\webadmin2\\webadmin2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33B596E9-C929-4CDB-80D9-F970C787677A}|webadmin2\\webadmin2.csproj|solutionrelative:webadmin2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Site.Master.cs",
+              "RelativeDocumentMoniker": "webadmin2\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Site.Master.cs",
+              "RelativeToolTip": "webadmin2\\Site.Master.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:32:39.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "webadmin2\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Logout.aspx.cs",
+              "RelativeToolTip": "webadmin2\\Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:31:16.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "webadmin2\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Login.aspx.cs",
+              "RelativeToolTip": "webadmin2\\Login.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:29:51.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "webadmin2\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Register.aspx.cs",
+              "RelativeToolTip": "webadmin2\\Register.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:27:32.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Login.aspx",
+              "RelativeDocumentMoniker": "webadmin2\\Login.aspx",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Login.aspx",
+              "RelativeToolTip": "webadmin2\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T07:27:03.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Web.config",
+              "RelativeDocumentMoniker": "webadmin2\\Web.config",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Web.config",
+              "RelativeToolTip": "webadmin2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-17T07:25:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Logout.aspx",
+              "RelativeDocumentMoniker": "webadmin2\\Logout.aspx",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Logout.aspx",
+              "RelativeToolTip": "webadmin2\\Logout.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T07:25:18.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Register.aspx",
+              "RelativeDocumentMoniker": "webadmin2\\Register.aspx",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Register.aspx",
+              "RelativeToolTip": "webadmin2\\Register.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T07:24:49.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Student.aspx.cs",
+              "RelativeDocumentMoniker": "webadmin2\\Student.aspx.cs",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Student.aspx.cs",
+              "RelativeToolTip": "webadmin2\\Student.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:14:23.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Site.Master",
+              "RelativeDocumentMoniker": "webadmin2\\Site.Master",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Site.Master",
+              "RelativeToolTip": "webadmin2\\Site.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T07:07:52.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.aspx",
+              "DocumentMoniker": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Student.aspx",
+              "RelativeDocumentMoniker": "webadmin2\\Student.aspx",
+              "ToolTip": "C:\\Users\\Phap\\source\\repos\\webadmin2\\webadmin2\\Student.aspx*",
+              "RelativeToolTip": "webadmin2\\Student.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T07:07:16.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
